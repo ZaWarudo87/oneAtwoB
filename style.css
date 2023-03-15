@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Raleway&family=Yuji+Boku&display=swap');
+header{
+    background-color: #8D86C9;
+    color: #242038;
+    -webkit-text-stroke: #F7ECE1 0.1px;
+    font-size: 64px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    letter-spacing: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+body{
+    background-color: #CAC4CE;
+    color: #242038;
+    margin: 0;
+    font-family: 'Yuji Boku', 'Noto Sans TC', 'Raleway', serif;
+    height: 100%;
+    min-height: 100vh;
+}
+section{
+    padding: 10px;
+}
+table{
+    border: 2px solid #4E0E2E;
+}
+tr, td{
+    border: 1px solid #4E0E2E;
+}
+html{
+    height: 100%;
+}
+footer{
+    background-color: #8D86C9;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+p{
+    font-size: 20px;
+    padding-left: 20px;
+}
+h1{
+    font-size: 32px;
+    padding-left: 20px;
+}
+a{
+    color: #F7ECE1;
+}
+.button{
+    background-color: #c2b0ce;
+    color: #242038;
+    font-family: 'Yuji Boku', 'Noto Sans TC', 'Raleway', serif;
+}
+.button:hover, .hb:hover{
+    background-color: #ffffff80;
+}
+.title{
+    background-color: #8D86C9;
+    color: #242038;
+    -webkit-text-stroke: #F7ECE1 0.1px;
+    font-size: 64px;
+    font-weight: bold;
+    font-family: 'Yuji Boku', 'Noto Sans TC', 'Raleway', serif;
+    border: 0px;
+}
+.title:hover{
+    color: #F7ECE1;
+    -webkit-text-stroke: #242038 0.1px;
+}
+.hb{
+    background-color: #9d97d4;
+    color: #F7ECE1;
+    border-color: #F7ECE1;
+    font-size: 24px;
+    font-family: 'Yuji Boku', 'Noto Sans TC', 'Raleway', serif;
+}
+.inputText{
+    background-color: #d9d2dd;
+}
+.canv{
+    padding: 10px;
+    margin: 20px;
+    background-color: #aaa5d7;
+    border-style: dashed;
+    border-color: #725AC1;
+    display: inline-block;
+}
