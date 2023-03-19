@@ -112,5 +112,5 @@
             <input type="button" id="dele" value="刪除帳號" class="button" onclick="dele();">
         </span>
     </section>
-    <footer>© Copyright&nbsp<a>奇奇怪怪的網站</a> - <a href="order.php">1A2B</a>&nbspSince 2023</footer>
+    <footer>© Copyright&nbsp<a>奇奇怪怪的網站</a> - <a href="index.php">1A2B</a>&nbspSince 2023</footer>
 </body>

@@ -106,5 +106,5 @@
             }
         ?>
     </section>
-    <footer>© Copyright&nbsp<a>奇奇怪怪的網站</a> - <a href="order.php">1A2B</a>&nbspSince 2023</footer>
+    <footer>© Copyright&nbsp<a>奇奇怪怪的網站</a> - <a href="index.php">1A2B</a>&nbspSince 2023</footer>
 </body>
